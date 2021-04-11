@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-11 07:38:11</sys_created_on>
+        <sys_id>1f8ff4402fef60106357d5ccf699b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_hoge.x_58872_needit.hoge_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_hoge">5f8ff4402fef60106357d5ccf699b6ec</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1f8ff4402fef60106357d5ccf699b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-11 07:38:11</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.hoge_user" name="x_58872_needit.hoge_user">0f8f74402fef60106357d5ccf699b61a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>53a49c0fdb2c7b0052cec597059619d7</instance_id>
+        <instance_name>dev79049</instance_name>
+        <name>sys_security_acl_role_1f8ff4402fef60106357d5ccf699b6ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-11 07:38:11</sys_created_on><sys_id>1f8ff4402fef60106357d5ccf699b6ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_hoge.x_58872_needit.hoge_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="x_58872_needit_hoge">5f8ff4402fef60106357d5ccf699b6ec</sys_security_acl><sys_update_name>sys_security_acl_role_1f8ff4402fef60106357d5ccf699b6ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-11 07:38:11</sys_updated_on><sys_user_role display_value="x_58872_needit.hoge_user" name="x_58872_needit.hoge_user">0f8f74402fef60106357d5ccf699b61a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2082108206</payload_hash>
+        <record_name>x_58872_needit_hoge.x_58872_needit.hoge_user</record_name>
+        <reverted_from/>
+        <source>d0a374082faf60106357d5ccf699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-11 07:38:11</sys_created_on>
+        <sys_id>978ff4402fef60106357d5ccf699b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178bfdddb850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-11 07:38:11</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>df8ff440e2ef6010518eb24f444ce9f1</update_guid>
+        <update_guid_history>df8ff440e2ef6010518eb24f444ce9f1:-2082108206</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_hoge.x_58872_needit.hoge_user">de008d402fef60106357d5ccf699b6cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-11 07:40:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>578b2d05aff14b6ea8d92ba11d61b204</sys_id>
+        <sys_metadata>1f8ff4402fef60106357d5ccf699b6ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_hoge.x_58872_needit.hoge_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">5f8ff4402fef60106357d5ccf699b6ec</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_1f8ff4402fef60106357d5ccf699b6ef</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_1f8ff4402fef60106357d5ccf699b6ef">978ff4402fef60106357d5ccf699b6f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-11 07:40:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
